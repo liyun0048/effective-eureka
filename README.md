@@ -1,1 +1,3 @@
 # effective-eureka
+
+Hi Humans!
